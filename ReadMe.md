@@ -14,6 +14,5 @@ I used the pygame extension to python in VS Code
 I programmed this entirely in Python.
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [RealPython.com](https://realpython.com/)
 * [Chat GPT](https://chatgpt.com/)
